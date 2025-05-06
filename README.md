@@ -49,7 +49,7 @@ The goal is to uncover survival patterns, answer meaningful questions, and demon
 
 ## Live Notebook
 
-
+https://github.com/Mrc2775/course-project-2/tree/main
 
 ## References
 
