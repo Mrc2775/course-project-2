@@ -3,7 +3,7 @@
 This project explores the Titanic dataset using Python, Pandas, Matplotlib, and Seaborn.  
 The goal is to uncover survival patterns, answer meaningful questions, and demonstrate practical data analysis skills.
 
-## 📊 Dataset
+## Dataset
 
 - Titanic CSV dataset (public dataset)  
   [https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
@@ -11,7 +11,7 @@ The goal is to uncover survival patterns, answer meaningful questions, and demon
 - Background:  
   The Titanic sank in 1912, and the dataset contains information on passengers, including survival status, class, age, gender, number of siblings/spouses, and ticket details.
 
-## 🔍 Questions Addressed
+## Questions Addressed
 
 1. What percentage of passengers survived?
 2. What was the survival rate by passenger class?
@@ -24,7 +24,7 @@ The goal is to uncover survival patterns, answer meaningful questions, and demon
 9. Is there a relationship between age and survival?
 10. How many passengers had missing age data?
 
-## 🛠 Tools and Libraries
+## Tools and Libraries
 
 - Python  
 - pandas  
@@ -32,7 +32,7 @@ The goal is to uncover survival patterns, answer meaningful questions, and demon
 - matplotlib  
 - seaborn
 
-## 💡 Insights
+## Insights
 
 - Overall survival rate ~38%
 - Women survival rate ~74%, men ~19%
@@ -41,18 +41,17 @@ The goal is to uncover survival patterns, answer meaningful questions, and demon
 - Cherbourg embarkation port had the highest survival rate
 - First-class passengers paid significantly more on average
 
-## 💬 Future Improvements
+## Future Improvements
 
 - Impute missing age values or analyze missing data further
 - Explore correlations between multiple features
 - Build a machine learning model to predict survival
 
-## 🌐 Live Notebook
+## Live Notebook
 
-[GitHub Pages Link](https://Mrc2775.github.io/course-project-2/)  
-*← Replace with your actual GitHub Pages URL once live*
 
-## 📚 References
+
+## References
 
 - Kaggle Titanic Competition: [https://www.kaggle.com/c/titanic](https://www.kaggle.com/c/titanic)  
 - pandas Documentation: [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)  
